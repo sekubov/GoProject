@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
+var greatings = "Hi There!"
+
 func main() {
-	fmt.Println("HelloWorld")
+	fmt.Println(greatings)
 }
